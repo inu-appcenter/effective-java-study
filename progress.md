@@ -3,12 +3,12 @@
 ## 1주차 - 2023/12/27 ✅
 ### Chapter 2 객체 생성과 파괴
 
-|챕터|아이템 번호|제목|발표자|구준형|김동우|이영재|이주원|정리|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|2|1|생성자 대신 정적 팩터리 메서드를 고려하라.|구준형|[Link]()|[Link]()|[Link]()|[Link]()|[Link](week1/summary/summary.md)|
-|2|2|생성자에 매개변수가 많다면 빌더를 고려하라.|이영재|[Link]()|[Link]()|[Link]()|[Link]()|[Link](week1/summary/summary.md)|
-|2|3|private 생성자나 열거 타입으로 싱글톤임을 보증하라.|이주원|[Link]()|[Link]()|[Link]()|[Link]()|[Link](week1/summary/summary.md)|
-|2|4|인스턴스화를 막으려거든 private 생성자를 사용하라.|김동우|[Link]()|[Link]()|[Link]()|[Link]()|[Link](week1/summary/summary.md)|
+|챕터|아이템 번호|제목|발표자|구준형|                 김동우                  |이영재|이주원|정리|
+|:-:|:-:|:-:|:-:|:-:|:------------------------------------:|:-:|:-:|:-:|
+|2|1|생성자 대신 정적 팩터리 메서드를 고려하라.|구준형|[Link]()| [Link](week1/dongwoo/item1/item1.md) |[Link]()|[Link]()|[Link](week1/summary/summary.md)|
+|2|2|생성자에 매개변수가 많다면 빌더를 고려하라.|이영재|[Link]()| [Link](week1/dongwoo/item2/item2.md) |[Link]()|[Link]()|[Link](week1/summary/summary.md)|
+|2|3|private 생성자나 열거 타입으로 싱글톤임을 보증하라.|이주원|[Link]()| [Link](week1/dongwoo/item3/item3.md) |[Link]()|[Link]()|[Link](week1/summary/summary.md)|
+|2|4|인스턴스화를 막으려거든 private 생성자를 사용하라.|김동우|[Link]()| [Link](week1/dongwoo/item4/item4.md) |[Link]()|[Link]()|[Link](week1/summary/summary.md)|
 
 ## 2주차 - 2024/01/03 ✅
 ### Chapter 2 객체 생성과 파괴
