@@ -13,13 +13,13 @@
 ## 2주차 - 2024/01/03 ✅
 ### Chapter 2 객체 생성과 파괴
 
-|챕터|아이템 번호|제목|발표자|구준형|김동우|이영재|이주원|정리|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|2|5|자원을 직접 명시하지 말고 의존 객체 주입을 사용하라.|이영재|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|2|6|불필요한 객체 생성을 피하라.|이주원|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|2|7|다 쓴 객체 참조를 해제하라.|이영재|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|2|8|finalizer와 cleaner 사용을 피하라.|김동우|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|2|9|try-finally보다는 try-with-resources를 사용하라.|구준형|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
+|챕터|아이템 번호|제목|발표자|구준형|                 김동우                  |이영재|이주원|정리|
+|:-:|:-:|:-:|:-:|:-:|:------------------------------------:|:-:|:-:|:-:|
+|2|5|자원을 직접 명시하지 말고 의존 객체 주입을 사용하라.|이영재|[Link]()| [Link](week2/dongwoo/item5/item5.md) |[Link]()|[Link]()|[Link]()|
+|2|6|불필요한 객체 생성을 피하라.|이주원|[Link]()| [Link](week2/dongwoo/item6/item6.md) |[Link]()|[Link]()|[Link]()|
+|2|7|다 쓴 객체 참조를 해제하라.|이영재|[Link]()| [Link](week2/dongwoo/item7/item7.md) |[Link]()|[Link]()|[Link]()|
+|2|8|finalizer와 cleaner 사용을 피하라.|김동우|[Link]()| [Link](week2/dongwoo/item8/item8.md) |[Link]()|[Link]()|[Link]()|
+|2|9|try-finally보다는 try-with-resources를 사용하라.|구준형|[Link]()| [Link](week2/dongwoo/item9/item9.md) |[Link]()|[Link]()|[Link]()|
 
 ## 3주차 - 2024/01/10
 ### Chapter 3 모든 객체의 공통 메서드
