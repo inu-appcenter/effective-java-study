@@ -2,10 +2,10 @@
 이펙티브 자바(조슈아 블로크 저)를 읽고 각자의 생각을 이야기하는 스터디 저장소입니다
 
 ## 👨‍💻 참여 인원
-|구준형|김동우|이영재|이주원|
-|:-:|:-:|:-:|:-:|
-|<a href="https://github.com/rnwnsgud"><img src="https://avatars.githubusercontent.com/u/78197563?v=4" width=100></a>|<a href="https://github.com/wellbeing-dough"><img src="https://avatars.githubusercontent.com/u/102784323?v=4" width=100></a>|<a href="https://github.com/elyudwo"><img src="https://avatars.githubusercontent.com/u/97587573?v=4" width=100></a>|<a href="https://github.com/Juser0"><img src="https://avatars.githubusercontent.com/u/108407945?v=4" width=100></a>
-|[@rnwnsgud](https://github.com/rnwnsgud)|[@wellbeing-dough](https://github.com/wellbeing-dough)|[@elyudwo](https://github.com/elyudwo)|[@Juser0](https://github.com/Juser0)
+|구준형|김동우|이영재|이주원|장철희|
+|:-:|:-:|:-:|:-:|:-:|
+|<a href="https://github.com/rnwnsgud"><img src="https://avatars.githubusercontent.com/u/78197563?v=4" width=100></a>|<a href="https://github.com/wellbeing-dough"><img src="https://avatars.githubusercontent.com/u/102784323?v=4" width=100></a>|<a href="https://github.com/elyudwo"><img src="https://avatars.githubusercontent.com/u/97587573?v=4" width=100></a>|<a href="https://github.com/Juser0"><img src="https://avatars.githubusercontent.com/u/108407945?v=4" width=100></a>|<a href="https://github.com/jang-namu"><img src="https://avatars.githubusercontent.com/u/121238128?v=4" width=100></a>
+|[@rnwnsgud](https://github.com/rnwnsgud)|[@wellbeing-dough](https://github.com/wellbeing-dough)|[@elyudwo](https://github.com/elyudwo)|[@Juser0](https://github.com/Juser0)|[@jang-namu](https://github.com/jang-namu)
 
 ## 📈 진행 내역
 전체적인 진행 내역은 해당 링크를 통해 확인이 가능합니다
