@@ -24,13 +24,13 @@
 ## 3주차 - 2024/01/10 ✅
 ### Chapter 3 모든 객체의 공통 메서드
 
-|챕터|아이템 번호|제목|발표자|구준형|김동우|이영재|이주원|장철희|정리|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|3|10|equals는 일반 규약을 지켜 재정의하라.|장철희|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|3|11|equals를 재정의하려거든 hashCode도 재정의하라.|이주원|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|3|12|toString을 항상 재정의하라.|구준형|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|3|13|clone 재정의는 주의해서 진행하라.|이영재|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|3|14|Comparable을 구현할지 고려하라.|김동우|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
+|챕터|아이템 번호|제목|발표자|구준형|                  김동우                   |이영재|이주원|장철희|정리|
+|:-:|:-:|:-:|:-:|:-:|:--------------------------------------:|:-:|:-:|:-:|:-:|
+|3|10|equals는 일반 규약을 지켜 재정의하라.|장철희|[Link]()| [Link](week3/dongwoo/item10/item10.md) |[Link]()|[Link]()|[Link]()|[Link]()|
+|3|11|equals를 재정의하려거든 hashCode도 재정의하라.|이주원|[Link]()| [Link](week3/dongwoo/item11/item11.md) |[Link]()|[Link]()|[Link]()|[Link]()|
+|3|12|toString을 항상 재정의하라.|구준형|[Link]()| [Link](week3/dongwoo/item12/item12.md) |[Link]()|[Link]()|[Link]()|[Link]()|
+|3|13|clone 재정의는 주의해서 진행하라.|이영재|[Link]()| [Link](week3/dongwoo/item13/item13.md) |[Link]()|[Link]()|[Link]()|[Link]()|
+|3|14|Comparable을 구현할지 고려하라.|김동우|[Link]()| [Link](week3/dongwoo/item14/item14.md) |[Link]()|[Link]()|[Link]()|[Link]()|
 
 ## 4주차 - 2024/01/17
 ### Chapter 4 클래스와 인터페이스
