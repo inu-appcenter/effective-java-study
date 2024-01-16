@@ -13,7 +13,7 @@
         return new User(name,gender, "USER");
     }
 
-    public static User managerOf(String name, String gender) {
+    public static User of(String name, String gender) {
         return new User(name,gender, "MANAGER");
     }
 
