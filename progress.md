@@ -21,13 +21,24 @@
 |2|8|finalizer와 cleaner 사용을 피하라.|김동우| [Link](week2/junhyeong/item8/item8.md) | [Link](week2/dongwoo/item8/item8.md) |[Link]()|[Link]()|[Link]()|
 |2|9|try-finally보다는 try-with-resources를 사용하라.|구준형| [Link](week2/junhyeong/item9/item9.md) | [Link](week2/dongwoo/item9/item9.md) |[Link]()|[Link]()|[Link]()|
 
-## 3주차 - 2024/01/10
+## 3주차 - 2024/01/10 ✅
 ### Chapter 3 모든 객체의 공통 메서드
 
-|챕터|아이템 번호|제목|발표자|구준형|김동우|이영재|이주원|정리|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|3|10|equals는 일반 규약을 지켜 재정의하라.|-|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|3|11|equals를 재정의하려거든 hashCode도 재정의하라.|-|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|3|12|toString을 항상 재정의하라.|-|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|3|13|clone 재정의는 주의해서 진행하라.|-|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
-|3|14|Comparable을 구현할지 고려하라.|-|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
+|챕터|아이템 번호|제목|발표자|구준형|                  김동우                   |이영재|이주원|장철희|정리|
+|:-:|:-:|:-:|:-:|:-:|:--------------------------------------:|:-:|:-:|:-:|:-:|
+|3|10|equals는 일반 규약을 지켜 재정의하라.|장철희|[Link]()| [Link](week3/dongwoo/item10/item10.md) |[Link]()|[Link]()|[Link]()|[Link]()|
+|3|11|equals를 재정의하려거든 hashCode도 재정의하라.|이주원|[Link]()| [Link](week3/dongwoo/item11/item11.md) |[Link]()|[Link]()|[Link]()|[Link]()|
+|3|12|toString을 항상 재정의하라.|구준형|[Link]()| [Link](week3/dongwoo/item12/item12.md) |[Link]()|[Link]()|[Link]()|[Link]()|
+|3|13|clone 재정의는 주의해서 진행하라.|이영재|[Link]()| [Link](week3/dongwoo/item13/item13.md) |[Link]()|[Link]()|[Link]()|[Link]()|
+|3|14|Comparable을 구현할지 고려하라.|김동우|[Link]()| [Link](week3/dongwoo/item14/item14.md) |[Link]()|[Link]()|[Link]()|[Link]()|
+
+## 4주차 - 2024/01/17
+### Chapter 4 클래스와 인터페이스
+
+|챕터|아이템 번호|제목|발표자|구준형|김동우|이영재|이주원|장철희|정리|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|4|15|클래스와 멤버의 접근 권한을 최소화하라.|-|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
+|4|16|public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라.|-|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
+|4|17|변경 가능성을 최소화하라.|-|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
+|4|18|상속보다는 컴포지션을 사용하라.|-|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
+|4|19|상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라.|-|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|[Link]()|
